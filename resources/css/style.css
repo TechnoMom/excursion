@@ -44,17 +44,22 @@ h3 {
     padding: 20px;
 }
 
+.landscape {
+    padding: 20px;
+}
+
 .phone {
     padding: 20px;
 }
 
 
-.footer (  
+.footer {  
     display: flex;
     justify-content: flex-end;
-    color: gray;
     font-family: "Verdana";
     background-color: black;
     font-size: 21px;
     padding: 20px;
-)
+    text-align: right;
+    color: gray;
+}
